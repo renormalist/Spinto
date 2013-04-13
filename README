@@ -1,0 +1,5 @@
+Pinto is about building your private CPAN.
+
+This repository here is to get a particular version of Pinto as it
+existed at some point in time, with some particular feature I provided
+(pinto add --force).
